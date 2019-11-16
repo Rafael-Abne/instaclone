@@ -15,7 +15,7 @@
   .Nav-menus {
     display: flex;
     flex-direction: row;
-    height: 77px;
+    height: auto;
     width: 70%;
     margin: 0 auto;
     padding: 26px 40px;
